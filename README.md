@@ -110,11 +110,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Shaeen Singh - [@scriptjumper](https://twitter.com/scriptjumper) - shaeendev@gmail.com
-
-Project Link: [Java Chess Engine](https://github.com/scriptjumper/Java-Chess-Engine)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
