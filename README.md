@@ -3,9 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/scriptjumper/Java-Chess-Engine">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Java Chess Engine</h3>
 
